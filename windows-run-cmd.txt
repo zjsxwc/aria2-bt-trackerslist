@@ -1,0 +1,1 @@
+ ./aria2c.exe  --enable-rpc --rpc-allow-origin-all --rpc-listen-all=true
